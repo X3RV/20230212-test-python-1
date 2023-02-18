@@ -4,7 +4,8 @@ Test repo illustrating some interesting test programs and/or concepts.  Primaril
 Started - 2023/02/12
 
 Last Update:  2023/02/18 
-Under development - X
+Under development.  Added clarification to the top level comment and breif initial documantation for 20230218 13-1.ipyynb - X
+NOTE: Add that file example later
 
 
 
