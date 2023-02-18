@@ -1,5 +1,10 @@
 # Test-20230212-1
-Test repo illustrating some interesting test programs and/or concepts.  
+Test repo illustrating some interesting test programs and/or concepts.  Primarily Python Colaboratory.
+
+Started - 2023/02/12
+
+Last Update:  2023/02/18 
+Under development - X
 
 
 
