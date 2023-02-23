@@ -5,12 +5,15 @@ Started: 2023/02/12
 
 Update:  2023/02/18 
 Under development.  Added clarification to the top level comment and breif initial documantation for 20230218 13-1.ipyynb - X
-NOTE: Add that file example later
 
-Last Update:  2023/02/22 - The basics of 20230218 13-1.ipyynb are complete.  Though it's super rough still.
+Last Update:  2023/02/22 
+Added the file example gist.
+The basics of 20230218 13-1.ipyynb are complete.  Though it's super rough still.  
 
 
 ***********************
+Relating to files inside python:
+
 Although it's not a specific program here is a useful gist:
 
 # Including the encoding turns out to be rather important
