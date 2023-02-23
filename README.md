@@ -16,7 +16,7 @@ Relating to files inside python:
 
 Although it's not a specific program here is a useful gist:
 
-# Including the encoding turns out to be rather important
+Including the encoding turns out to be rather important
 # infile = open(filename, 'r', encoding = 'utf-8-sig')
 
 Many coding examples ommit the encoding which has caused me a few pains.  
