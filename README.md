@@ -10,7 +10,15 @@ NOTE: Add that file example later
 Last Update:  2023/02/22 - The basics of 20230218 13-1.ipyynb are complete.  Though it's super rough still.
 
 
+***********************
+Although it's not a specific program here is a useful gist:
 
+# Including the encoding turns out to be rather important
+infile = open(filename, 'r', encoding = 'utf-8-sig')
+
+Many coding examples ommit the encoding which has caused me a few pains.  
+The encoding used ubove is the most common one I've seen and is the one used by Excel CVS files.
+Though you can universally change it, it seems prudent to simply include the proper encoding.
 
 ***********************
 20230218 13-1.ipyynb 
