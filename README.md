@@ -1,11 +1,14 @@
 # Test-20230212-1
 Test repo illustrating some interesting test programs and/or concepts.  Primarily Python Colaboratory.
 
-Started - 2023/02/12
+Started: 2023/02/12
 
-Last Update:  2023/02/18 
+Update:  2023/02/18 
 Under development.  Added clarification to the top level comment and breif initial documantation for 20230218 13-1.ipyynb - X
 NOTE: Add that file example later
+
+Last Update:  2023/02/22 - The basics of 20230218 13-1.ipyynb are complete.  Though it's super rough still.
+
 
 
 
