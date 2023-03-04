@@ -37,7 +37,7 @@ This continues until a score goal is reached.
 - example of top-down design (with loop cycle main area)
 - calling functions
 
-    # 2023/03/04 - I'll be recreating the files locally because of future addition of video driven files that are not directly supported via Colab.  
+    ## 2023/03/04 - I'll be recreating the files locally because of future addition of video driven files that are not directly supported via Colab.  
 
 *************************
 
